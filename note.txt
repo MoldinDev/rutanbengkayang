@@ -1,0 +1,2 @@
+1. hero-bg: #07213d
+2. orange: #ffbe1d
