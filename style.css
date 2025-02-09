@@ -310,11 +310,6 @@ nav {
 
 @media (max-width:756px) {
 
-  .hero {
-    padding: 0 !important;
-    background-color: white;
-  }
-
   .text-box {
     flex-direction: column;
     margin: 50px 0;
